@@ -174,5 +174,4 @@ This project provided practical experience with:
 - Functional verification and waveform debugging
 
 ## Author
-
-Developed as an RTL design and digital verification learning project.
+AJ
